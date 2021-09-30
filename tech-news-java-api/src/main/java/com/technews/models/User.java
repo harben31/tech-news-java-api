@@ -1,7 +1,6 @@
-package models;
+package com.technews.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import models.Post;
 
 import javax.persistence.*;
 import java.io.Serializable;
